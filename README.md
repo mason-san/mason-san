@@ -17,12 +17,6 @@ My expertise spans a wide range of technologies like **C**, **C++**, **JavaScrip
 
 ---
 
-## 💻 Projects
-
-Here are some of my projects that I’ve worked on:
-
----
-
 ## 🏆 Badges
 
 ![GitHub followers](https://img.shields.io/github/followers/mazinmoosa?style=social)
