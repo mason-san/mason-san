@@ -34,9 +34,9 @@
 ### 📳 Contact Me!
 <div align="left">
   <p>
-    <a href="mailto:your-email@gmail.com">
-    <img src="https://static.vecteezy.com/system/resources/previews/021/515/060/non_2x/google-gmail-logo-symbol-white-design-illustration-with-black-background-free-vector.jpg" height=40px width=40px> </a> | 
-    <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <a href="mailto:mazinmoosa63@gmail.com">
+    <img src="https://static.vecteezy.com/system/resources/previews/021/515/060/non_2x/google-gmail-logo-symbol-white-design-illustration-with-black-background-free-vector.jpg" height=40px width=40px> </a> 
+    <a href="https://www.linkedin.com/in/mazin-moosa-57b35827b/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" height=40px width=40px> </a>
   </p>
 </div>
