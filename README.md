@@ -17,12 +17,6 @@ My expertise spans a wide range of technologies like **C**, **C++**, **JavaScrip
 
 ---
 
-## 📈 GitHub Stats
-
-![Mazin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazinmoosa&show_icons=true&count_private=true&theme=radical)
-
----
-
 ## 💻 Projects
 
 Here are some of my projects that I’ve worked on:
