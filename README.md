@@ -32,8 +32,7 @@
 
 
 ### 📳 Contact Me!
-<div align="center">
-  <h2>Contact Me</h2>
+<div align="left">
   <p>
     📩 <a href="mailto:mazinmoosa63@gmail.com">Gmail</a> |
     💼 <a href="https://www.linkedin.com/in/mazin-moosa-57b35827b/" target="_blank">LinkedIn</a> |
