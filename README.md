@@ -31,6 +31,17 @@
 </div>
 
 
+### 📳 Contact Me!
+<div align="center">
+  <h2>Contact Me</h2>
+  <p>
+    📩 <a href="mailto:mazinmoosa63@gmail.com">Gmail</a> |
+    💼 <a href="https://www.linkedin.com/in/mazin-moosa-57b35827b/" target="_blank">LinkedIn</a> |
+  </p>
+</div>
+
+
+
 <!--
 **mason-san/mason-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
