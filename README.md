@@ -33,36 +33,13 @@
 
 ### 📳 Contact Me!
 <div align="left">
-  <h2>Contact Me</h2>
   <p>
-    <a href="mailto:your-email@gmail.com" class="contact-button">📩 Gmail</a>
-    <a href="https://www.linkedin.com/in/your-profile" class="contact-button" target="_blank">💼 LinkedIn</a>
-    <a href="https://www.instagram.com/your-profile" class="contact-button" target="_blank">📷 Instagram</a>
+    <a href="mailto:your-email@gmail.com">📩 Gmail</a>
+    <a href="https://www.linkedin.com/in/your-profile" target="_blank">💼 LinkedIn</a>
+    <a href="https://www.instagram.com/your-profile" target="_blank">📷 Instagram</a>
   </p>
 </div>
 
-<style>
-  .contact-button {
-    display: inline-block;
-    padding: 10px 20px;
-    margin: 5px;
-    font-size: 16px;
-    font-weight: bold;
-    color: white;
-    text-decoration: none;
-    border-radius: 8px;
-    transition: 0.3s;
-  }
-
-  .contact-button:nth-child(1) { background: #D44638; } /* Gmail Red */
-  .contact-button:nth-child(2) { background: #0077B5; } /* LinkedIn Blue */
-  .contact-button:nth-child(3) { background: #E4405F; } /* Instagram Pink */
-
-  .contact-button:hover {
-    opacity: 0.8;
-    transform: scale(1.05);
-  }
-</style>
 
 
 
