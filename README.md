@@ -36,8 +36,8 @@
   <p>
     <a href="mailto:your-email@gmail.com">
     <img src="https://static.vecteezy.com/system/resources/previews/021/515/060/non_2x/google-gmail-logo-symbol-white-design-illustration-with-black-background-free-vector.jpg" height=60px width=60px> </a>
-    <a href="https://www.linkedin.com/in/your-profile" target="_blank">💼 LinkedIn</a>
-    <a href="https://www.instagram.com/your-profile" target="_blank">📷 Instagram</a>
+    <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" height=60px width=60px> </a>
   </p>
 </div>
 
